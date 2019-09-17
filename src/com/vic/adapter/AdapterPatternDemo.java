@@ -7,6 +7,6 @@ public class AdapterPatternDemo {
 		audioPlayer.play("mp3", "aaa");
 		audioPlayer.play("mp4", "bbb");
 //		audioPlayer.play("vlc", "ccc");
-//		audioPlayer.play("avi", "ddd");
+		audioPlayer.play("avi", "ddd");
 	}
 }
